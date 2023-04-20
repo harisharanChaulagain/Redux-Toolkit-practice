@@ -1,0 +1,24 @@
+{
+  "name": "redux-toolkit-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCPHSC/Redux-Toolkit-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NCPHSC/Redux-Toolkit-practice/issues"
+  },
+  "homepage": "https://github.com/NCPHSC/Redux-Toolkit-practice#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
